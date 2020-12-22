@@ -7,9 +7,12 @@ I want to add additional lines and remove some lines for the diff.
 
 I have now used GIT one time...before I had only used TFS and vault.
 
+Making changes.
 
 Let's see how this looks.
 
 Proceed!
 
 Test for Amy.
+
+Tesing for PR again.  
